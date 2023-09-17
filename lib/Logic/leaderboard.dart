@@ -4,13 +4,13 @@ class User {
   String imagePath;
 
   User(this.name, this.points , this.imagePath);
-}
+} 
 
 class UserManager {
   List<User> users = [
-    User('Vishu', 100 , 'lib/assets/u1.jpg'),
-    User('Shruti', 15 , 'lib/assets/u2.jpg'),
-    User('Abhi', 120 , 'lib/assets/u3.jpg')
+    User('Vishu', 100 , 'lib/assets/ankhul.jpg'),
+    User('Shruti', 15 , 'lib/assets/mike.jpg'),
+    User('Abhi', 120 , 'lib/assets/hhor.jpg')
   ];
 
   void addUser(String name, int points ,String imagePath) {

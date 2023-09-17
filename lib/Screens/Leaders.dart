@@ -142,21 +142,5 @@ class _LeadersState extends State<Leaders> {
       ),
     );
 
-    /*Scaffold(
-      appBar: AppBar(title: Text('Leaderboard')),
-      body: ListView.builder(
-        itemCount: widget.usm.users.length,
-        itemBuilder: (BuildContext context, int index) {
-          User user = widget.usm.users[index];
-          return ListTile(
-            leading: CircleAvatar(
-              child: Text(user.name[0]),
-            ),
-            title: Text(user.name),
-            trailing: Text(user.points.toString()),
-          );
-        },
-      ),
-    );*/
   }
 }
