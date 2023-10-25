@@ -1,16 +1,15 @@
 # leader_borad
 
-A new Flutter project.
+A BASIC FLUTTER APP TO UNDERSTSAND FRONTEND , UI AND WORKING WITH ANIMATIONS, BUTTONS , NAVIGATION AND MULTIPLE PAGES 
 
-## Getting Started
+## HOW TO VIEW THIS FILES 
 
-This project is a starting point for a Flutter application.
+lib folder will have all the source files . 
 
-A few resources to get you started if this is your first Flutter project:
+--> main.dart is starting point of the application
+--> assests  folder contains all the images
+---> logic folder has logic for displaying the final leaderboard based on points
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+if any doubt feel free to reach out or message 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+HAPPY CODING !
